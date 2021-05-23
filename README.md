@@ -3,7 +3,7 @@ About r-tserieschaos
 
 Home: https://CRAN.R-project.org/package=tseriesChaos
 
-Package license: GPL-2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-tserieschaos-feedstock/blob/master/LICENSE.txt)
 
@@ -169,6 +169,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@PackageCondaDataScience](https://github.com/PackageCondaDataScience/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
 

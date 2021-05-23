@@ -46,7 +46,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=tseriesChaos
-  license: GPL-2
+  license: GPL-2.0-only
   summary: 'Routines for the analysis of nonlinear time series. This work is largely inspired
     by the TISEAN project, by Rainer Hegger, Holger Kantz and Thomas Schreiber: <http://www.mpipks-dresden.mpg.de/~tisean/>.'
 
@@ -56,7 +56,6 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - PackageCondaDataScience
 
 # Package: tseriesChaos
 # Title: Analysis of Nonlinear Time Series
